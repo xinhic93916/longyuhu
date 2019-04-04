@@ -1,13 +1,19 @@
 # 龙与虎互娱
 
-游戏目标：
-尽可能消灭动物卡片，获取分数。
-
-游戏规则：
-两张不同数量动物卡片相减或相加、乖、除取得点，即可消灭卡片
-时间有限，消灭卡片可增加时间。
+Objectives: Eliminate cards as much as possible within the prescribed time to obtain scores.
 
 
 
-联系我们
+
+Rule: Two different numbers of animal cards can be subtracted or added together, well-behaved, in addition to the combination can eliminate the card, in a certain period of time to eliminate the card can increase the time.
+
+
+目标： 尽可能在规定时间内消除卡片，获取分数。
+
+
+规则： 两张不同数量动物卡片相减或相加、乖、除取得合即可消除卡片，在一定时间内消除卡片可增加时间。
+
+
+
+Contact us
 xinhic93916@163.com
